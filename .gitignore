@@ -1,0 +1,16 @@
+# Private or local data
+.env
+.env.*
+!.env.example
+
+# Python and temporary files
+__pycache__/
+*.py[cod]
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Power BI backup files
+*.pbix.autosave
